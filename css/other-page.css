@@ -1,0 +1,112 @@
+/* halaman hubungi kami */
+.mt-115 {
+  margin-top: 115px;
+}
+label {
+  font-family: pop-sembold;
+  color: #000;
+}
+.form-control {
+  border-radius: 7px;
+  padding: 23px 12px;
+  margin-bottom: 25px;
+  border: 1.2px solid #DADADA;
+  font-family: nunito;
+  font-size: 14.5px;
+}
+.form-control:active,.form-control:focus {
+  border: 1.2px solid #32D320;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+textarea.form-control{
+  padding-top: 12px;
+  resize: none;
+  font-size: 14.5px;
+}
+.btn-kirim,.btn-kirim:hover,.btn-kirim:focus,.btn-kirim:active {
+ background-color: #338FFA;
+ border-color: #338FFA;
+ font-family: mont;
+ float: right;
+ padding: 10px 30px;
+ border-radius: 8px;
+}
+.badge-primary {
+  background-color: #2E81E1;
+  margin-left: 19px;
+  border-radius: 50px;
+  padding: 4px 5px;
+}
+/* halaman hubungi kami */
+
+/* popup dalam halaman komentar */
+.modal-open , .modal-open .modal {
+  padding-right: 0px !important;
+}
+.img-ilus-comment {
+  margin-top: 60px;
+  margin-bottom: 13px;
+  width: 45%;
+}
+.title-modal {
+  font-size: 23.5px;
+  color:#16284C;
+  font-family: pop-sembold;
+}
+.sub-title-modal {
+  color:#16284C;
+  font-family: nunito;
+  margin-bottom: 30px;
+}
+.bd-right {
+  margin-top: 5px;
+}
+.btn-block {
+  margin-bottom: 10px;
+}
+/* popup dalam halaman komentar */
+
+/* halaman tentang kami */
+.bgimage-about {
+  width: 100%;
+  background-image: url('../images/bg-about.png');
+  height: 400px;
+  background-repeat:  no-repeat;
+  background-size: contain;
+  background-position: center;
+  /*   background-attachment: fixed; */
+}
+.custom-fsz {
+  margin-top: 160px;
+  font-size: 38px;
+  letter-spacing: 0.7px;
+  font-family: mont;
+  font-weight: bold;
+  color: #fff;
+}
+.no-bg-other-page {
+  background-image: none;
+  margin-bottom: 0px;
+}
+.bc-other-page {
+  padding-bottom: 55px;
+}
+/* halaman tentang kami */
+
+/* halaman faq */
+.bgimage-faq {
+  width: 100%;
+  background-image: url('../images/bg-faq-1.png');
+  height: 400px;
+  background-repeat:  no-repeat;
+  background-size: contain;
+  background-position: center;
+  /*   background-attachment: fixed; */
+}
+.mt-faq-list {
+  margin-top: 15px !important;
+  padding-bottom: 70px;
+
+}
+/* halaman faq */
